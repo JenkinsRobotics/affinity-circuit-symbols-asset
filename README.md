@@ -1,5 +1,5 @@
 # affinity-circuit-symbols-asset
-An asset which include circuit symbols for drawing schematics and block diagrams with Affinity Designer
+An asset which include circuit symbols for drawing schematics and block diagrams with Affinity Designer. This is a branched project from Keisuke Kawahara original "Affinity Circuit Symbols Asset". I additional blocks and other assets that i use for my wire diagrams
 
 ## Screen shot
 
@@ -22,9 +22,14 @@ An asset which include circuit symbols for drawing schematics and block diagrams
 
 Tips: The schematic symbols are designed with 1-pt line width. To draw the wiring, you can use a "Pen Tool" with a 1-pt line width.
 
-## Designer
+## Original Designer
 
 Keisuke Kawahara  
+
+
+## Secondary Designer
+
+Jonathan Jenkins
 
 ## Licence
 
